@@ -9,4 +9,10 @@ Detect persons who comply social distancing reulations and who did not follow. I
   Now run social_distance_Model.py file 
 
 
+https://user-images.githubusercontent.com/35097344/115224830-fe2d1d80-a12a-11eb-8589-5e31f52f9e0b.mp4
+
+
+
+
+
   
